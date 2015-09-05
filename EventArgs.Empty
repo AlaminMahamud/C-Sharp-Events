@@ -1,0 +1,10 @@
+// EventArgs.Empty Field
+
+// Provides a value to use with events that do not have event data
+
+// Namespace :: System
+// Assembly  :: mscorlib
+
+// Syntax	 :: 
+
+public static readonly EventArgs Empty
